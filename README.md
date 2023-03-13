@@ -1,6 +1,6 @@
 <h1 align="center">WaiterApp</h1>
 
-<p align="center">App de pedidos com direito a categorias, cardápio, carrinho de compras.</p>
+<p align="center">App de pedidos com direito a categorias, cardápio e carrinho de compras.</p>
 
 https://user-images.githubusercontent.com/81267688/222251527-6ec7d080-6cc9-4859-9410-437b5593968a.mp4
 
